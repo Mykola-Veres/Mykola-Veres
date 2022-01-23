@@ -1,8 +1,8 @@
-### Hi there 👋
-
 ![Header](https://github.com/Mykola-Veres/Mykola-Veres/blob/main/assets/MYKOLA.jpg)
 
-## Currently I’m Junior Front-End Developer
+### Hi there 👋
+
+## I’m Junior Front-End Developer
 
 ## Languages and Tools
 
@@ -14,11 +14,9 @@
 ![NPM](https://img.shields.io/badge/-NPM-9b5903?style=for-the-badge&logo=NPM)
 ![GIT](https://img.shields.io/badge/-GIT-9b5903?style=for-the-badge&logo=GIT)
 
-[![Mykola-Veres GitHub stats](https://github-readme-stats.vercel.app/api?username=Mykola-Veres)](https://github.com/Mykola-Veres/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mykola-Veres)](https://github.com/Mykola-Veres/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mykola-Veres&layout=compact)](https://github.com/Mykola-Veres/github-readme-stats)
+
+[![Mykola-Veres GitHub stats](https://github-readme-stats.vercel.app/api?username=Mykola-Veres)](https://github.com/Mykola-Veres/github-readme-stats)
 
 <!--
 **Mykola-Veres/Mykola-Veres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
