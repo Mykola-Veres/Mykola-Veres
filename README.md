@@ -2,6 +2,10 @@
 
 ![Header](https://github.com/Mykola-Veres/Mykola-Veres/blob/main/assets/MYKOLA.jpg)
 
+## Currently I’m Junior Front-End Developer
+
+![React](https://img.shields.io/badge/-React-#FE9A22?style=for-the-badge&logo=react)
+
 <!--
 **Mykola-Veres/Mykola-Veres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
