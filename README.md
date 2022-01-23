@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Header]
+![Header](https://github.com/Mykola-Veres/Mykola-Veres/blob/main/assets/MYKOLA.jpg)
 
 <!--
 **Mykola-Veres/Mykola-Veres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
