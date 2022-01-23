@@ -16,6 +16,10 @@
 
 [![Mykola-Veres GitHub stats](https://github-readme-stats.vercel.app/api?username=Mykola-Veres)](https://github.com/Mykola-Veres/github-readme-stats)
 
+![Mykola-Veres GitHub stats](https://github-readme-stats.vercel.app/api?username=Mykola-Veres&hide=contribs,prs)
+
+![Mykola-Veres GitHub stats](https://github-readme-stats.vercel.app/api?username=Mykola-Veres&count_private=true)
+
 <!--
 **Mykola-Veres/Mykola-Veres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
