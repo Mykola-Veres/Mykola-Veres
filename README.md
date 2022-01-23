@@ -4,7 +4,7 @@
 
 ## Currently I’m Junior Front-End Developer
 
-![React.js](https://img.shields.io/badge/-React.js-#FE9A22?style=for-the-badge&logo=React)
+![React.js](https://img.shields.io/badge/-React.js-FE9A22?style=for-the-badge&logo=React)
 
 <!--
 **Mykola-Veres/Mykola-Veres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
