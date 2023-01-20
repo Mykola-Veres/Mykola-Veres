@@ -8,7 +8,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-9b5903?style=for-the-badge&logo=JavaScript)
 ![React.js](https://img.shields.io/badge/-React.js-9b5903?style=for-the-badge&logo=React)
-![Vue.js](https://img.shields.io/badge/-Vue.js-9b5903?style=for-the-badge&logo=vue)
+![Vue.js](https://img.shields.io/badge/-Vue.js-9b5903?style=for-the-badge&logo=vue-dot-js)
 ![Vue.js](https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=vue-dot-js&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS-9b5903?style=for-the-badge&logo=CSS3)
 ![SASS](https://img.shields.io/badge/-SASS-9b5903?style=for-the-badge&logo=Sass)
